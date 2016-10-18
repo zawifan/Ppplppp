@@ -16,5 +16,6 @@ public class HelloGitWorld {
 		System.out.println("hello Git world! eclipse 2016-10-18c");
 		System.out.println("hello Git world! eclipse 2016-10-18d1");
 		System.out.println("hello Git world! eclipse 2016-10-18d2");
+		System.out.println("hello Git world! eclipse 2016-10-18e github");
 	}
 }
